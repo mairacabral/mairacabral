@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Maíra!
 
-🎓 Estagiária em Dados na Vision One  
+🎓 Estagiária de Dados na Vision One  
 💻 Atuo em projetos internos usando tecnologias como:  **Power BI**, **Figma**, **SQL**
 
 🚀 Atualmente estou aprendendo mais sobre:  
